@@ -1,4 +1,8 @@
-<?php 
+<?php
+/*
+* Author	:	Sarath
+* Email		:	sarath.hacks@gmail.com
+*/
 include('config/db.php');
 
 if(isset($_POST['createDB'])){
