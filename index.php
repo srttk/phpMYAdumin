@@ -2,6 +2,7 @@
 /*
 * Author	:	Sarath
 * Email		:	sarath.hacks@gmail.com
+* Created	:	October 2013
 */
 include('config/db.php');
 
