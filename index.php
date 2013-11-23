@@ -169,7 +169,7 @@ include('config/db.php');
 	
 </div>
 <div class="footer">
-	&copy;2013 Sarath Production
+	&copy; 2013 Sarath Production
 </div>
 </body>
 </html>
